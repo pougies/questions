@@ -7,4 +7,4 @@
 
 - Résoudre [starter.ipynb](starter.ipynb)
 - Résoudre 1 feuille parmi [algo.ipynb](algo.ipynb) et [intuition.ipynb](intuition.ipynb)
-- Résoudre 1 feuille parmi [debug.ipynb](debug.ipynb) et [pythonic_thinking.ipynb](pythonic_thinking.ipynb)
+- Résoudre 1 feuille parmi [debug.ipynb](debug.ipynb) et [pythonic_thinking.ipynb](pythonic_thinking.ipynb) et `django-message`
