@@ -5,6 +5,6 @@
 
 # Exos
 
-- Résoudre [starter.ipynb](starter.ipynb)
+- Résoudre [starter.ipynb](starter.ipynb) ou [starter-expert.ipynb](starter-expert.ipynb)
 - Résoudre 1 feuille parmi [algo.ipynb](algo.ipynb) et [intuition.ipynb](intuition.ipynb)
 - Résoudre 1 feuille parmi [debug.ipynb](debug.ipynb) et [pythonic_thinking.ipynb](pythonic_thinking.ipynb) et `django-message`
